@@ -197,3 +197,6 @@ Communiquer les incertitudes (intervalles de confiance)
 Actualiser régulièrement avec nouvelles données
 
 "Past performance is not indicative of future results" - Cette maxime s'applique particulièrement aux cryptomonnaies.
+
+
+<img src="IMG1.jpg" style="height:264px;margin-right:232px"/>
